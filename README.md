@@ -16,7 +16,7 @@ How It Works:
    ```
    This creates a turtle object named `t`.
 
-   3.Basic Commands:**
+   3.Basic Commands:
 
 Movement:
      - `forward(distance)`: Moves the turtle forward by the specified distance.
